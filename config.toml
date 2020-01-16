@@ -1,0 +1,48 @@
+baseURL = "https://pallaviramicetty.github.io/"
+languageCode = "en-us"
+title = "pallavi"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Pallavi Ramicetty - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  #logo = "/images/logo.png"
+  description ="Pallavi.R"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Pallavi Ramicetty"
+  thumbnail = "/images/author.jpg"
+  description = "Author"
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "Pallavi Ramicetty"
+  subtitle = "M.Tech, Computer Science and Engineering in India."
+  mdtext = '''
+Currently working as a Data Science Engineer. Curious to be an AI Research Fellow & Entrepreneur.
+'''
+  alertbar = false
+
+[params.social]
+  github = "pallaviramicetty"
+  linkedin = "rpallavi"
+  twitter = "ramicetty"
+  
+
+## Main Menu
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 100
+    url = "/"
+[[menu.main]]
+    name = "Blog"
+    weight = 200
+    identifier = "blog"
+    url = "/blog"
+
