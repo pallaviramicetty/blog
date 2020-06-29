@@ -1,5 +1,5 @@
 ---
-title: "Device Based Models With Tensorflow Lite"
+title: "2 - Device Based Models With Tensorflow Lite"
 date: 2020-03-29T06:30:08+05:30
 publishdate: 2020-03-29T06:30:08+05:30
 tags: ["Tensorflow", "Tensorflow Lite", "Machine Learning"]
