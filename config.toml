@@ -24,7 +24,7 @@ publishDir = "docs"
   title = "Pallavi Ramicetty"
   subtitle = "M.Tech, Computer Science and Engineering in India."
   mdtext = '''
-Currently working as a Data Science Engineer. Curious to be an AI Research Fellow & Entrepreneur.
+Currently working as a Data Science Engineer at Imaginea Technologies. Curious to be an AI Research Fellow & Entrepreneur.
 '''
   alertbar = false
 
