@@ -1,4 +1,4 @@
-baseURL = "https://pallaviramicetty.github.io/"
+baseURL = "https://ramicetty.github.io/"
 languageCode = "en-us"
 title = "Pallavi Ramicetty"
 theme = "mediumish-gohugo-theme"
@@ -29,7 +29,7 @@ Currently working as a Data Science Engineer at Imaginea Technologies. Curious t
   alertbar = false
 
 [params.social]
-  github = "pallaviramicetty"
+  github = "ramicetty"
   linkedin = "rpallavi"
   twitter = "ramicetty"
   
